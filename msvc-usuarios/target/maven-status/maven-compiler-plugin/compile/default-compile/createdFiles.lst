@@ -1,0 +1,7 @@
+org\aguzman\springcloud\msvc\usuarios\repositories\UsuarioRepository.class
+org\aguzman\springcloud\msvc\usuarios\services\UsuarioServiceImpl.class
+org\aguzman\springcloud\msvc\usuarios\clients\CursoClienteRest.class
+org\aguzman\springcloud\msvc\usuarios\models\entity\Usuario.class
+org\aguzman\springcloud\msvc\usuarios\MsvcUsuariosApplication.class
+org\aguzman\springcloud\msvc\usuarios\controllers\UsuarioController.class
+org\aguzman\springcloud\msvc\usuarios\services\UsuarioService.class

@@ -1,0 +1,9 @@
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\MsvcCursosApplication.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\repositories\CursoRepository.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\clients\UsuarioClientRest.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\models\entity\Curso.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\models\Usuario.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\controllers\CursoController.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\services\CursoService.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\services\CursoServiceImpl.java
+C:\Users\p-aperez\pruebas\curso-kubernetes\msvc-cursos\src\main\java\org\aguzman\springcloud\msvc\cursos\models\entity\CursoUsuario.java
